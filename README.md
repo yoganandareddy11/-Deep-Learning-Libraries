@@ -18,6 +18,6 @@ Not Applicable (Synthetic tensors created during runtime).
    - **Keras** provides an easy-to-use API layer on top of TensorFlow for fast experiment iterations.
 
 ## Creator
-- **Name:** [Your Name]
-- **Email:** [your.email@example.com]
-- **GitHub:** [your-github-username]
+- **Name:** M.Yogananda
+- **Email:** yoganandareddy866@gmail.com
+
